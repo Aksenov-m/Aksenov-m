@@ -15,4 +15,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" title="git" alt="nodejs" width="42" height="42"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="git" alt="npm" width="42" height="42"/>&nbsp;
 </div>
-Follow Me
+
+## :trophy: Моя статистика:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aksenov-m&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aksenov-m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

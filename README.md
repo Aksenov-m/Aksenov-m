@@ -8,7 +8,7 @@
 + ##### :soccer: Увлекаюсь футболом.
 
 ### :mailbox: Как связаться со мной:
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aksenov_m87) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aksenov.am87@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Aksenov_m87) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://aksenov.am87@gmail.com)
 
 ## :hammer: Мой стек:
 
